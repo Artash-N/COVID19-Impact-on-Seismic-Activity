@@ -15,7 +15,7 @@ It would take less than one hour for most people to complete the Tutorial. Howev
 
     1. Calculating the Probabilistic Power Spectral Densities from the raw siesmic data
     
-    2. Extracting seismic vibrations of targeted frequency range
+    2. Extracting seismic vibrations of the targeted frequency ranges
     
     3. Using the Root Mean Square function to compute seismic displacement over time
     
