@@ -19,9 +19,9 @@ It would take less than one hour for most people to complete the Tutorial. Howev
     
     3. Using the Root Mean Square function to compute seismic displacement over time
     
-    4. Creating a trend-line to clearly visualize the changes in seismic vibration during the lockdown. 
+    4. Creating a trend-line to clearly visualize the changes in seismic vibration during the lockdown
     
-
-The end results of this analysis would be a graph showing the trend in Seismic Vibrations.
+    5. Calculate the percentage change in seismic vibrations from before to during the lockdown
+    
 
 Do remember, seismic stations by design are meant to study natural vibrations. Thus most of them are constructed far away from cities. Thus not all seismic stations may be sensitive enough to changes in vibrations caused by lockdown in the cities.
