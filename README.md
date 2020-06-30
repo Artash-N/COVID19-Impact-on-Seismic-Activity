@@ -11,11 +11,16 @@ To enable more people to measure changes around them I wrote this Tutorial. This
 
 It would take less than one hour for most people to complete the Tutorial. However downloading the data needed to complete this tutorial may take a few hours, depending on the internet connection. Seismic data is very rich in resolution. The ground stations collect upto 100 or more readings per second. To measure the changes happening in ground vibrations due to COVID19 would require studying the trend in vibrations and that would span several weeks or months. Hence a large dataset, running upto one billion values needs to be worked upon to conduct analysis.
 
-<u>This Tutorial would allow user to conduct several step by step analysis<u>:
+**This Tutorial would allow user to conduct several step by step analysis:**
+
     1. Calculating the Probabilistic Power Spectral Densities from the raw siesmic data
+    
     2. Extracting seismic vibrations of targeted frequency range
+    
     3. Using the Root Mean Square function to compute seismic displacement over time
+    
     4. Creating a trend-line to clearly visualize the changes in seismic vibration during the lockdown. 
+    
 
 The end results of this analysis would be a graph showing the trend in Seismic Vibrations.
 
