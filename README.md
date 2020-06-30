@@ -27,4 +27,4 @@ It would take less than one hour for most people to complete the Tutorial. Howev
 Do remember, seismic stations by design are meant to study natural vibrations. Thus most of them are constructed far away from cities. Thus not all seismic stations may be sensitive enough to changes in vibrations caused by lockdown in the cities.
 
 
-All data used in the tutorial is retreived from Incorporated Research Institutions for Seismology (IRIS.edu), through the python ObsPy library. Many of the analysis steps went through in this tutorial were edited from a tutorial by Thomas Lecocq : https://github.com/ThomasLecocq/SeismoRMS
+All data used in the tutorial is retreived from Incorporated Research Institutions for Seismology (IRIS.edu), through the python ObsPy library. Many of the analysis steps went through in this tutorial were inspired from a tutorial by Thomas Lecocq : https://github.com/ThomasLecocq/SeismoRMS
