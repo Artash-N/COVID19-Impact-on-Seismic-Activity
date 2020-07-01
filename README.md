@@ -1,5 +1,5 @@
-# COVID19-Impact-on-Seismic-Activity
-COVID19 may have closed doors of my school. But the windows to education remained open. I used the period of the lockdown to learn more about the environment around me and measure the changes happening. These included changes in street noise, pollution levels, traffic count and seismic vibrations. 
+# Analysing Impact of COVID19 Lockdown on Seismic Activity
+COVID19 lockdown may have closed doors of my school. But the windows to education remained open. I used the period of the lockdown to learn more about the environment around me and measure the changes happening. These included changes in street noise, pollution levels, traffic count and seismic vibrations. 
 
 Seismic vibrations or vibrations of the ground are caused by natural and human made activities. Natural activities include earthquakes, vibrations, ocean waves, and wind. Human made activities includes vibrations caused by transport, construction activities, railways, and even passage of big ships close to the shore.
 
